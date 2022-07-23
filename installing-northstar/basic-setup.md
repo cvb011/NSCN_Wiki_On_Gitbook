@@ -6,7 +6,7 @@
 
 1. 在 [releases](https://github.com/R2Northstar/Northstar/releases) 页面下载最新版本的北极星
 2. 将zip压缩包的所有文件拷贝至 `Titanfall2` 文件夹中. 其位置会因你的下载平台与自定义设置而有所区别.
-   * **For Steam** - 右键单击 _Titanfall 2_ >  _属性_ >  _本地文件_ > _浏览_\
+   * **For Steam** - 右键单击 _Titanfall 2_ > _属性_ > _本地文件_ > _浏览_\
      其默认位置为: `C:\Program Files (x86)\Steam\steamapps\common\Titanfall2`
    * **For Origin** - 遵循以下方法以找到游戏的安装目录 _Origin_ -> _應用程式設置_ -> _安裝與儲存_ -> _在你的電腦上_ -> _游戲庫位置_\
      使用资源管理器定位至上述文件夹中的 `Titanfall2` 子文件夹.\
@@ -14,18 +14,13 @@
    * **For EA App** - 遵循以下方法以找到游戏的安装目录 _Settings_ -> _Download_\
      Go to the directory under "Install location" using File Explorer and open the `Titanfall2` folder.\
      其默认位置为: `C:\Program Files\EA Games\Titanfall2`
-
-<!--
-因为译者没有EA App，所以无法确认其准确翻译 
--->
-
 3. 使用 `NorthstarLauncher.exe` 以启动 Northstar
    * 在第一次启动，我们将会询问您是否同意与主服务器进行验证. 如果您希望在Northstar服务器中游玩，单击 _Yes_ (在这之后该选项可以在 Mod 菜单中更改)\
-     ![Authentication Agreement](/Doc/images/titleagreement.png)
+     ![Authentication Agreement](../Doc/images/titleagreement.png)
 4. 选择 _启动 Northstar_\
-   ![Launch Northstar](/Doc/images/titlelaunchnorthstar.png)
+   ![Launch Northstar](../Doc/images/titlelaunchnorthstar.png)
 5. 在多人游戏菜单中，您可以在服务器浏览器中加入由社区玩家主持的服务器.\
-   ![Server Browser](/Doc/images/lobbyserverbrowser.png)
+   ![Server Browser](../Doc/images/lobbyserverbrowser.png)
 
 如果您在游玩过程中遇到了任何的 issues/warnings/errors , 请优先查看 [troubleshooting](troubleshooting.md) 页面.
 
@@ -42,8 +37,8 @@
 
 ## Linux
 
-Linux 下的安装请参考 [这里](using-northstar/playing-on-linux.md).
+Linux 下的安装请参考 [这里](playing-on-linux.md).
 
 ## SteamDeck
 
-蒸汽甲板的安装请参考 [这里](using-northstar/playing-on-linux.md#steamdeck).
+蒸汽甲板的安装请参考 [这里](playing-on-linux.md#steamdeck).
