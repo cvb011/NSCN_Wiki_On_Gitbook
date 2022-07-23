@@ -21,8 +21,6 @@ NorthStar 和 NorthStarCN 都属于早期项目，仍有许多地方需要完善
 2. 将下载下来的客户端压缩包的所有文件解压到泰坦陨落2游戏的根目录
 3. 启动并登陆Origin完毕后，点击运行游戏根目录下的NorthstarLauncher.exe即可启动
 ----
-# 查看我们的[Wiki](https://github.com/R2NorthstarCN/NorthStarCN_WIKI/wiki)以获得相关帮助信息
-## 查看[快速帮助文档](https://github.com/R2NorthstarCN/NorthStarCN_WIKI/wiki/%E5%BF%AB%E9%80%9F%E5%B8%AE%E5%8A%A9%E6%96%87%E6%A1%A3)以快速配置使用NorthStarCN
 ## 查看原版[NorthstarWiki](https://r2northstar.gitbook.io/r2northstar-wiki/)来获得更多帮助
 ## 查看[NorthstarModding文档](https://r2northstar.readthedocs.io/en/latest/)来获得mod制作相关帮助
 ## 【强烈建议】加入我们的[开黑啦频道](https://kaihei.co/lt1o65)及时获取消息通知更新
