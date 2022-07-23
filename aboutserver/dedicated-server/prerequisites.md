@@ -2,7 +2,7 @@
 
 **TL;DR:** 需要转发的端口是 `37015` (UDP) 与 `8081` (TCP)
 
-确保您已正确安装了 Northstar [as described here（尚未翻译）](../../installing-northstar/basic-setup.md).
+确保您已依照[教程](../../installing-northstar/basic-setup.md#an-zhuang-northstar)正确安装了 Northstar .
 
 ## 敬告：
 
@@ -23,7 +23,7 @@
 * 在百度搜索 `IP` 以获知您的出口IP
 * 将此IP与您路由器获取到的IP进行对比
 
-如果二者不同（大概率是的），那么您是无公网IP的用户，您可以尝试去找运营商去要（移动大概率是要不到的），否则您是无法成功搭建服务器的。
+如果二者不同（大概率是的），那么您是无公网IP的用户，您大可以尝试去找运营商去索取（虽然大概率是要不到的），否则您是无法成功搭建服务器的。
 
 ## 端口转发
 
