@@ -16,11 +16,11 @@
      其默认位置为: `C:\Program Files\EA Games\Titanfall2`
 3. 使用 `NorthstarLauncher.exe` 以启动 Northstar
    * 在第一次启动，我们将会询问您是否同意与主服务器进行验证. 如果您希望在Northstar服务器中游玩，单击 _Yes_ (在这之后该选项可以在 Mod 菜单中更改)\
-     ![Authentication Agreement](../Doc/images/titleagreement.png)
+     ![Authentication Agreement](../.gitbook/assets/titleagreement.png)
 4. 选择 _启动 Northstar_\
-   ![Launch Northstar](../Doc/images/titlelaunchnorthstar.png)
+   ![Launch Northstar](../.gitbook/assets/titlelaunchnorthstar.png)
 5. 在多人游戏菜单中，您可以在服务器浏览器中加入由社区玩家主持的服务器.\
-   ![Server Browser](../Doc/images/lobbyserverbrowser.png)
+   ![Server Browser](../.gitbook/assets/serverbrowser.png)
 
 如果您在游玩过程中遇到了任何的 issues/warnings/errors , 请优先查看 [troubleshooting](troubleshooting.md) 页面.
 
